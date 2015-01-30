@@ -14,7 +14,7 @@
 * Click on `Download R 3.1.2 for Windows`    
 <img src="Figures/cran03.png" alt="" style="width: 400px;"/>
 * Open and run the file you just downloaded `R-3.1.2-win.exe` 
-<img src="Figures/install_r01.png" alt="" style="width: 40px;"/>
+<img src="Figures/install_r01.png" width="40"/>
 * There is no need to change the default installation!  
 
 
