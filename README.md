@@ -1,6 +1,6 @@
 # Setting up R and RStudio in Windows
 
-## Runnning as Administrator
+## Running as Administrator
 * When you run the installers, make sure to run them as administrator. 
 * Select the file, right click and choose **Run as administrator**  
 <img src="Figures/admin_run.png" alt="" style="width: 150"/>
