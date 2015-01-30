@@ -18,6 +18,11 @@
 * There is no need to change the default installation!  
 
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+
+
 |:-------------:|:-------------:|:-------------:|
 | **1** | **2** | **3** |
 
