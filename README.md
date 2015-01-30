@@ -17,12 +17,6 @@
 <img src="Figures/install_r01.png" width="40"/>
 * There is no need to change the default installation!  
 
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-
-
 | . | . | . |
 |:-------------:|:-------------:|:-------------:|
 | <img src="Figures/install_r02.png" alt="" width="250"/> | <img src="Figures/install_r03.png" alt="" width="250"/>| <img src="Figures/install_r04.png" alt="" width="250"/> |
@@ -50,7 +44,7 @@
 <img src="Figures/rtools02.png" alt="" width="40"/>
 * Again, there is no need to change the defaults   
 
-
+| . | . | . |
 |:-------------:|:-------------:|:-------------:|
 |<img src="Figures/rtools03.png" alt="" width="250"/> | <img src="Figures/rtools04.png" alt="" width="250"/>|<img src="Figures/rtools05.png" alt="" width="250"/>|
 |**1**|**2**|**3**|
@@ -77,6 +71,7 @@
 <img src="Figures/rstudio04.png" alt="" width="40"/>
 * You don't have to change any of the defaults for the installation  
 
+| . | . | . |
 |:-------------:|:-------------:|:-------------:|
 |<img src="Figures/rstudio05.png" alt="" width="250"/> | <img src="Figures/rstudio06.png" alt="" width="250"/>|<img src="Figures/rstudio07.png" alt="" width="250"/>|
 |**1**|**2**|**3**|
@@ -102,7 +97,4 @@ library(devtools)
 ```{r}
 install_github("jennybc/gapminder")
 ```
-
-
-
 
