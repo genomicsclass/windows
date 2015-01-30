@@ -1,8 +1,4 @@
----
-title: "Setting up R and RStudio in Windows"
-output: html_document
-layout: page
----
+# Setting up R and RStudio in Windows
 
 ## Runnning as Administrator
 * When you run the installers, make sure to run them as administrator. 
