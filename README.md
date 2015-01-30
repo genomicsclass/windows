@@ -23,10 +23,10 @@
 | col 3 is      | some wordy text | $1600 |
 
 
+| . | . | . |
 |:-------------:|:-------------:|:-------------:|
-| **1** | **2** | **3** |
-
 | <img src="Figures/install_r02.png" alt="" width="250"/> | <img src="Figures/install_r03.png" alt="" width="250"/>| <img src="Figures/install_r04.png" alt="" width="250"/> |
+| **1** | **2** | **3** |
 | <img src="Figures/install_r05.png" alt="" width="250"/> | <img src="Figures/install_r06.png" alt="" width="250"/> | <img src="Figures/install_r07.png" alt="" width="250"/> |
 | **4** | **5** | **6** |
 | <img src="Figures/install_r08.png" alt="" width="250"/> | <img src="Figures/install_r09.png" alt="" width="250"/> | <img src="Figures/install_r10.png" alt="" width="250"/> |
