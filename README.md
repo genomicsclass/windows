@@ -19,14 +19,14 @@
 
 
 |:-------------:|:-------------:|:-------------:|
-|<img src="Figures/install_r02.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r03.png" alt="" style="width: 250px;"/>|<img src="Figures/install_r04.png" alt="" style="width: 250px;"/>|
-|**1**|**2**|**3**|
-|<img src="Figures/install_r05.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r06.png" alt="" style="width: 250px;"/>|<img src="Figures/install_r07.png" alt="" style="width: 250px;"/>|
-|**4**|**5**|**6**|
-|<img src="Figures/install_r08.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r09.png" alt="" style="width: 250px;"/>|<img src="Figures/install_r10.png" alt="" style="width: 250px;"/>|
-|**7**|**8**|**9**|
-|<img src="Figures/install_r11.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r12.png" alt="" style="width: 250px;"/>| **DONE**|
-|**10**|**11**| |
+| <img src="Figures/install_r02.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r03.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r04.png" alt="" style="width: 250px;"/> |
+| **1** | **2** | **3** |
+| <img src="Figures/install_r05.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r06.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r07.png" alt="" style="width: 250px;"/> |
+| **4** | **5** | **6** |
+| <img src="Figures/install_r08.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r09.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r10.png" alt="" style="width: 250px;"/> |
+| **7** | **8** | **9** |
+| <img src="Figures/install_r11.png" alt="" style="width: 250px;"/> | <img src="Figures/install_r12.png" alt="" style="width: 250px;"/> | **DONE** |
+| **10** | **11** | |
 
 
 * Please make sure you install the latest version of R (R version 3.1.2).  
