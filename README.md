@@ -98,3 +98,6 @@ library(devtools)
 install_github("jennybc/gapminder")
 ```
 
+**License**  
+
+ http://opensource.org/licenses/MIT
