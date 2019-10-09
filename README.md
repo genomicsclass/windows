@@ -121,6 +121,8 @@ library(devtools)
 install_github("jennybc/gapminder")
 ```
 
+## To know about the syntax of R Download swirl package which is good for those who are beginners in R
+
 ## License
 
 http://opensource.org/licenses/MIT
